@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: Poppis, sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+body {
+  color: white;
+  background-color: #18191A ;
+}
